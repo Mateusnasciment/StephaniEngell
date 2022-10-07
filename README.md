@@ -12,7 +12,7 @@ Stephani Engel</a></h1>
 
 - 🌱 I’m currently learning about front-end on <a href="https://plataforma.devclub.com.br/area/vitrine" target="blank">DevClub</a>
 
-- 💬 Ask me about **JavaScript, HTML & CSS**
+- 💬 Ask me about **JavaScript, React, Git, HTML & CSS**
 
 - 📫 How to reach me **stephaniengel18@gmail.com**
 
