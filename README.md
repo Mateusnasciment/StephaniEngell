@@ -12,7 +12,7 @@ Stephani Engel</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849
 
 - 🌱 I’m currently learning about front-end on <a href="https://plataforma.devclub.com.br/area/vitrine" target="blank">DevClub</a>
 
-- 📫 How to reach me **stephaniengel18@gmail.com**
+- 📫 How to reach me: **stephaniengel18@gmail.com**
 
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h3>
