@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30">, I'm <a href="https://github.com/StephaniEngell?tab=repositories/" target="blank">
-Stephani Engel</a></h1>
+Stephani Engel</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h1>
 <h3 align="center">A passionate Front-End from Nova Andradina-MS, Brazil.</h3>
 
 <a target="_blank" align="center">
@@ -25,6 +25,7 @@ Stephani Engel</a></h1>
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/stephani-engel/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://stephani-engel.netlify.app/">
+		
 
       </div>
       
